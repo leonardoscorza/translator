@@ -1,5 +1,17 @@
 # TranslateYandex
 
+Essa Gem foi desenvolvida como um Tutorial para o blog http://onebitcode.com, para ver o tutorial você pode acessar http://onebitcode.com/criando-uma-gem-e-clonando-o-translate.
+
+Neste tutorial foi utilizado
+-Ruby
+-Api Yandex
+-TDD
+-Rspec
+-Rest Client (gem)
+-Json (gem)
+
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
